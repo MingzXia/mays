@@ -23,3 +23,12 @@ The unique morphology of grass stomata enables rapid responses to environmental 
 
 ## Phylogenetic trees were produced using IQ-TREE
 Phylogenetic_trees
+
+## Nikon_origin_files
+The images of 25 stomatal complexes scaned by multiphoton Confocal Microscope A1 MP(Nikon) in autofluorescence (750nm) were archived into 50 splited compressed files. Each image file (nd2 format) can be viewed through NIS-Elements Viewer.
+
+## Stomatal_volum_and_vision
+### Imaris B73 stomata size.xlsx
+The volum data from 25 stomatal complexes inferred by 3D reconstruction from z-stacks with a manual definition of the cell border, using Imaris (Oxford Instruments; Jonkman et al., 2020).
+### stomatal observation.mp4
+Maize stomata video stained with Calcofluor white veso observation
